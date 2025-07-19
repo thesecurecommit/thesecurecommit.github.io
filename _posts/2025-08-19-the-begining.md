@@ -8,12 +8,7 @@ tags: [introduction, mission, career, learning]
 pin: true
 math: false
 mermaid: false
-image:
-  path: /commons/devices-mockup.png
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
-
-## Paragraph
 
 In cybersecurity, we have a paradox of information. We're surrounded by breach reports, vulnerability alerts, and new tools, yet a crucial question remains for many practitioners: Amidst all this noise, how do we deepen our actual craft?
 
@@ -40,4 +35,4 @@ Let's get to work.
 ---
 
 💬 The conversation begins now. Join the new Discord community here:
-<[Discord Link Will Be Updated]>
+<[[Discord](https://discord.gg/46kXmpxr)]>
